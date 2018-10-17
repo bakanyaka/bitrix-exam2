@@ -1,0 +1,6 @@
+<?
+$sSectionName = "feedback";
+$arDirProperties = Array(
+
+);
+?>
